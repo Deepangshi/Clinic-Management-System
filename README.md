@@ -1,18 +1,49 @@
 ## clinic-management-system
 clinic management system in java CRUD application overview.
 
-## Desktop Application
-Programming Language- [Java](https://www.java.com/en/)
+## Tools used
 
-IDE- [NetBeans](https://netbeans.apache.org/)
+``
+install java
+``
 
-Runtime Environment- [jdk](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
+``
+download java jdk.exe file
+``
+
+``
+download jre-8version
+``
+
+IDE of your choice
+
+``
+install Apache NetBeans
+``
+
+``
+install IntelliJ IDEA
+``
+
 
 ## Database Connection
-[Xampp](https://www.apachefriends.org/index.html) ,
-[MySQL Workbench](https://www.mysql.com/products/workbench/)
 
-[JDBC Connector](https://www.techopedia.com/definition/24845/java-database-connectivity-connector-jdbc-connector)
+``
+install XAMPP
+``
+
+``
+download MySQL Community Server 
+``
+
+``
+com.mysql.jdbc.Driver
+``
+
+``
+jdbc:mysql://localhost:3306/
+``
+
 
 
 
